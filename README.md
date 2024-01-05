@@ -1,8 +1,8 @@
 # MATLAB-Projects
 
-Welcome my Matlab Projects Repository!
+Welcome to my Matlab Projects Repository!
 
-This repository is a compendium of my journey through various Matlab labs, encompassing a spectrum of topics and challenges. Delving into the world of computational mathematics and scientific computing, I've created code solutions for labs ranging from mastering basic syntax to tackling advanced numerical methods.
+This repository is a summary of my journey through various Matlab labs, containing a spectrum of topics and challenges. Delving into the world of computational mathematics and scientific computing, I've created code solutions for labs ranging from mastering basic syntax to tackling advanced numerical methods.
 
 Within these digital corridors, you'll find code implementations for labs such as calculating roots of equations and employing numerical methods like Bisection, Muller, Newton-Raphson, and more. Each lab holds a piece of my learning journey, showcasing Matlab code that navigates through mathematical challenges and problem-solving.
 
